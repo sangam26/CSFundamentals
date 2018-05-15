@@ -2,7 +2,7 @@
 public class Sorting {
 	//define all fundamental functions related to sorting inputs 
 	public Sorting(){
-		//constructor, nothing to initialize
+		//constructor, nothing to initialize for now...
 	}
 	
 	public void insertionSort(int[] array){
